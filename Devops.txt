@@ -8,4 +8,5 @@ Terraform -------------------- https://github.com/vincloud2/projectA_Terraform.g
 Ansible Docker Install ------- https://github.com/vincloud2/ansible_docker_install.git
 Ansible Httpd playbook ------- https://github.com/vincloud2/ansible_httpd_palybook.git
 Jenkins Script Deploy docker - https://github.com/vincloud2/jenkins_script_docker_deploy.git
-Terraform Httpd -------------- https://github.com/vincloud2/jenkins_script_docker_deploy.git
+Terraform Httpd -------------- https://github.com/vincloud2/httpd_terraform.git
+Teraform Project using Jenkin- https://github.com/vincloud2/projectA_Terraform.git 
