@@ -3,3 +3,9 @@ Git Commands with Linux ------ https://github.com/vincloud2/devops_oct_2023/blob
 Tomcat Installation Steps ---- https://github.com/vincloud2/devops_oct_2023/blob/main/Application_server/tomcat/Tomcat_install_steps.md
 Httpd Installation Steps ----- https://github.com/vincloud2/devops_oct_2023/blob/main/Devops_Materials/Application%20_server_Day6/Httpd_install_steps.md
 Simple Project --------------- https://github.com/vincloud2/Helloworld-latest.git
+Ansible PlayBook ------------- https://github.com/vincloud2/ansible_playbooks.git
+Terraform -------------------- https://github.com/vincloud2/projectA_Terraform.git
+Ansible Docker Install ------- https://github.com/vincloud2/ansible_docker_install.git
+Ansible Httpd playbook ------- https://github.com/vincloud2/ansible_httpd_palybook.git
+Jenkins Script Deploy docker - https://github.com/vincloud2/jenkins_script_docker_deploy.git
+Terraform Httpd -------------- https://github.com/vincloud2/jenkins_script_docker_deploy.git
