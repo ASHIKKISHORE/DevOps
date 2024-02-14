@@ -1,0 +1,5 @@
+Git Commands ----------------- https://github.com/vincloud2/devops_oct_2023/tree/main/GIT_Day1-4
+Git Commands with Linux ------ https://github.com/vincloud2/devops_oct_2023/blob/main/GIT_Day1-4/Git_Command__Linux_Day3.md
+Tomcat Installation Steps ---- https://github.com/vincloud2/devops_oct_2023/blob/main/Application_server/tomcat/Tomcat_install_steps.md
+Httpd Installation Steps ----- https://github.com/vincloud2/devops_oct_2023/blob/main/Devops_Materials/Application%20_server_Day6/Httpd_install_steps.md
+Simple Project --------------- https://github.com/vincloud2/Helloworld-latest.git
